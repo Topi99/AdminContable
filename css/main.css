@@ -1,0 +1,47 @@
+body{
+  margin: 0px 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #1f1f1f;
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 3em;
+  font-weight: lighter;
+  color: #39BCA4;
+  margin: none;
+}
+nav{
+  background-color: #4C565E;
+  box-shadow: 0px 1px 10px #2d353b;
+}
+nav a{
+  /*margin-left: 100px;*/
+  color: #F1EEDA;
+  font-size: 1.5em;
+  text-decoration: none;
+  transition: .5s;
+}
+nav a:hover{
+  color: #39BCA4;
+  text-shadow: 0px 1px 3px #2d353b;
+}
+nav h1{
+  /* padding-left: 70px;*/
+}
+nav div{
+  /*margin-left: 70px;*/
+}
+#pres{
+  padding-top: 20px;
+  display: block;
+  margin: auto;
+}
+.inline-block{
+  display: inline-block;
+}
+.monster{
+  font-family: 'Montserrat', sans-serif;
+}
+.active{
+  text-shadow: 0px 1px 3px #2d353b;
+}
