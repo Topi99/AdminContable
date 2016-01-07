@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  alert("Página web optimizada para PC o Mac");
   $("#banner").css({"height":$(window).height() + "px"});
 
   var flag = false;
